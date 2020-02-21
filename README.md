@@ -4,19 +4,11 @@ This project was bootstrapped with [Create React App].
 
 Please install dependecies
 
-### `npm install`
-
-Or
-
-### yarn install`
+### `npm install` or `yarn install`
 
 In the project directory, run:
 
-### `yarn start`
-
-Or
-
-### `npm run start`
+### `yarn start` or `npm run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
