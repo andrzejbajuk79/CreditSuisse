@@ -10,7 +10,22 @@ In the project directory, run:
 
 ### `yarn start` or `npm run start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# DEPLOY
 
+> https://syxtuss-movie-app.netlify.app
+
+# ZRODLO 
+
+**torrenty** : *Movie App - Hooks API and Styled Components*
+
+>https://github.com/weibenfalk/React-RMDB/tree/master/src/components
+
+
+# Instruction
+
+- Clone this repo ```git clone``` and check into the folder 
+
+####Preview
+![sass-js-coding-test screenshot](?raw=true)
+![sass-js-coding-test screenshot](?raw=true)
 
